@@ -9,15 +9,6 @@
 
 ---
 
-### 🎥 Live Demo
-
-**(Highly Recommended)**: Record a short GIF of you using the app to recognize signs like "hello," "thanks," and "iloveyou." It's the best way to showcase the project!
-
-![SignSense Demo](https://path-to-your-gif.com/demo.gif)
-*A quick walkthrough of SignSense identifying ASL gestures in real-time.*
-
----
-
 ### ✨ Core Features
 
 *   **Real-Time Gesture Recognition**: Identifies a vocabulary of ASL signs (`hello`, `thanks`, `iloveyou`, etc.) directly from a webcam stream.
